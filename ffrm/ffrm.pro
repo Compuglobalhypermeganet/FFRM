@@ -1,0 +1,4 @@
+-libraryjars C:\WTK22\lib\midpapi20.jar;C:\WTK22\lib\wma11.jar;C:\WTK22\lib\cldcapi11.jar
+-injars C:\WTK22\apps\ffrm\bin\ffrm.jar
+-outjar C:\WINDOWS\Temp\ffrm.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 

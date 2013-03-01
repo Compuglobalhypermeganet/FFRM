@@ -1,0 +1,8 @@
+MIDlet-1: ffrm, fed.png, movil.ffrms
+MIDlet-Jar-Size: 78123
+MIDlet-Jar-URL: http://www.ffrm.es/ffrm/ffrm.jar
+MIDlet-Name: ffrm
+MIDlet-Vendor: ffrm-UMU
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

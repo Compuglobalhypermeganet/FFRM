@@ -1,0 +1,10 @@
+!SESSION 2013-02-24 13:53:52.778 -----------------------------------------------
+eclipse.buildId=v21.1.0-569685
+java.version=1.7.0_15
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_ES
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product D:\Proyectos\Arbitros\ffrm\ffrm.pro
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.android.ide.eclipse.adt.package.product D:\Proyectos\Arbitros\ffrm\ffrm.pro
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2013-02-24 13:54:31.014
+!MESSAGE DDMS files not found: D:\Proyectos\Arbitros\ffrm\platform-tools\adb.exe D:\Proyectos\Arbitros\ffrm\tools\hprof-conv.exe D:\Proyectos\Arbitros\ffrm\tools\traceview.bat 
